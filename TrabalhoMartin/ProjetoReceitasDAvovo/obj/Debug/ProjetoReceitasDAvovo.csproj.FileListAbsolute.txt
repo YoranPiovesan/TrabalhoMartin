@@ -1,0 +1,49 @@
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.exe.config
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.exe
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.pdb
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csprojAssemblyReference.cache
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.frm_cadastro.resources
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.frm_login.resources
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.Properties.Resources.resources
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.GenerateResource.cache
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.CoreCompileInputs.cache
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.CopyComplete
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.exe
+C:\Users\dionn\source\repos\ProjetoReceitasDAvovo\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.exe.config
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.exe
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.frm_cadastro.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_fornecedores.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_forneced.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.frm_login.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_menu.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.CopyComplete
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.exe
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\Trabalho facul\2_semestre\PROJETOPROGRAMACAO\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_cupoms.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csprojAssemblyReference.cache
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.frm_cadastro.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_fornecedores.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_cupoms.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_forneced.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.frm_login.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.Properties.Resources.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.View.frm_menu.resources
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.GenerateResource.cache
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.CoreCompileInputs.cache
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.exe
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.pdb
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.exe.config
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.exe
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\bin\Debug\ProjetoReceitasDAvovo.pdb
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dionn\Desktop\Nova pasta (3)\Programacao\ProjetoReceitasDAvovo\obj\Debug\ProjetoReceitasDAvovo.csproj.CopyComplete
